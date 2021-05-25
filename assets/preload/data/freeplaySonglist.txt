@@ -17,4 +17,8 @@ Winter Horrorland:monster-christmas:5
 Senpai:senpai:6
 Roses:senpai:6
 Thorns:spirit:6
+Placeholder1:dad:1
+Placeholder2:dad:1
 Conflict:dad:1
+Showoff:dad:1
+Placeholder5:dad:1

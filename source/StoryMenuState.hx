@@ -31,7 +31,7 @@ class StoryMenuState extends MusicBeatState
 		['Satin Panties', "High", "Milf"],
 		['Cocoa', 'Eggnog', 'Winter Horrorland'],
 		['Senpai', 'Roses', 'Thorns'],
-		['Conflict']
+		['Placeholder1', 'Placeholder2', 'Conflict', 'ShowOff', 'Placeholder5']
 	];
 	var curDifficulty:Int = 1;
 
@@ -56,7 +56,7 @@ class StoryMenuState extends MusicBeatState
 		"MOMMY MUST MURDER",
 		"RED SNOW",
 		"Hating Simulator ft. Moawling",
-		"week:"
+		"Piano Dude UwU"
 	];
 
 	var txtWeekTitle:FlxText;
